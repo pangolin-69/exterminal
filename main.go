@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pangolin-69/exterminal/src/prompter"
+	"github.com/pangolin-69/exterminal/prompter"
 )
 
 func main() {
