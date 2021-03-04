@@ -1,4 +1,4 @@
-module github.com/pangolin-69/exterminal
+module exterminal
 
 go 1.15
 

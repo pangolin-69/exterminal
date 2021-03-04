@@ -1,8 +1,8 @@
 package main
 
 import (
+	"exterminal/prompter"
 	"fmt"
-	"github.com/pangolin-69/exterminal/prompter"
 )
 
 func main() {
